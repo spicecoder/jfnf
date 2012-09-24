@@ -1,0 +1,17 @@
+#labels BigData,ContentManagement,DataScience,Psychology,PerceptionScience
+Build code repository supporting flow and focus paradigm of thinking
+.
+
+= Introduction =
+
+
+In recent years Flows has finaly been recognised as first class citizens in the realm of web development as illustrated by platforms like Spring Webflows.
+However more can be done at a micro level, recognising the power of generic data structure exposed through the co-existance of flow [e.g a sequence of particular screens] and focus [e.g. individual screens]; by not restricting ourselves in the UI world, but by treating it as a more generic data structure , e.g a column in a table can be a flow of individual cells of data in the column and so on.This radical way of viewing data opens up new possibilities in the areas of  big data, unstructured data, and coexistance of structured and unstructured data in general and also in the UI design space. This project aims to capture together the algorithims and programs that manipulate flow and focus together as a generic data structure.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
